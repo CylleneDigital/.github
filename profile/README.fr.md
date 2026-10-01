@@ -24,7 +24,7 @@
 
 ## 👋 Qui sommes-nous ?
 
-[Cyllene](https://www.groupe-cyllene.com) est un acteur français de la transformation digitale, avec **plus de 39 ans d'expérience** et **plus de 400 experts** en cloud, infrastructure, data & IA, cybersécurité et développement d'applications.
+[Cyllene](https://www.groupe-cyllene.com) est un acteur français de la transformation digitale, avec **plus de 40 ans d'expérience** et **plus de 400 experts** en cloud, infrastructure, data & IA, cybersécurité et développement d'applications.
 
 Notre équipe e-commerce conçoit et développe des plateformes B2B et B2C sur **Sylius** et **Symfony**, en tant que partenaire Sylius de référence en France. Nos projets peuvent être audités directement par l'équipe Sylius, et nous appliquons à l'open source les mêmes exigences qu'aux projets clients : un code propre, des tests solides et une documentation soignée.
 
@@ -34,10 +34,10 @@ Cette organisation regroupe les plugins et bundles que nous extrayons de nos pro
 
 ### Plugins Sylius
 
-| Package | Description |
-|---|---|
-| [SyliusAxeptaPlugin](https://github.com/CylleneDigital/SyliusAxeptaPlugin) | Passerelle de paiement Axepta BNP Paribas pour Sylius 2.1+ : page de paiement hébergée par la banque, compatible Payum et PaymentRequest. |
-| [SyliusTranslationFlagsPlugin](https://github.com/CylleneDigital/SyliusTranslationFlagsPlugin) | Améliore les accordéons de traduction et la liste des langues de l'admin : un drapeau devant chaque locale et un nom de langue capitalisé. |
+| Package | Description | Packagist |
+|---|---|---|
+| [SyliusAxeptaPlugin](https://github.com/CylleneDigital/SyliusAxeptaPlugin) | Passerelle de paiement Axepta BNP Paribas pour Sylius 2.1+ : page de paiement hébergée par la banque, compatible Payum et PaymentRequest. | [![Version](https://img.shields.io/packagist/v/cyllene-digital/sylius-axepta-plugin?style=flat-square)](https://packagist.org/packages/cyllene-digital/sylius-axepta-plugin) [![Downloads](https://img.shields.io/packagist/dt/cyllene-digital/sylius-axepta-plugin?style=flat-square)](https://packagist.org/packages/cyllene-digital/sylius-axepta-plugin) |
+| [SyliusTranslationFlagsPlugin](https://github.com/CylleneDigital/SyliusTranslationFlagsPlugin) | Améliore les accordéons de traduction et la liste des langues de l'admin : un drapeau devant chaque locale et un nom de langue capitalisé. | [![Version](https://img.shields.io/packagist/v/cyllene-digital/sylius-translation-flags-plugin?style=flat-square)](https://packagist.org/packages/cyllene-digital/sylius-translation-flags-plugin) [![Downloads](https://img.shields.io/packagist/dt/cyllene-digital/sylius-translation-flags-plugin?style=flat-square)](https://packagist.org/packages/cyllene-digital/sylius-translation-flags-plugin) |
 
 ### Bundles Symfony
 
@@ -47,11 +47,11 @@ _Bientôt disponibles._
 
 Les issues et pull requests sont les bienvenues sur tous nos dépôts. Chaque package dispose de son propre README avec les étapes d'installation et les règles de contribution.
 
-Vous avez trouvé une faille de sécurité ? Merci de ne pas ouvrir d'issue publique et de nous contacter via [groupe-cyllene.com/contactez-nous](https://www.groupe-cyllene.com/contactez-nous/).
+Vous avez trouvé une faille de sécurité ? Merci de ne pas ouvrir d'issue publique et de nous contacter via [groupe-cyllene.com/contactez-nous](https://www.groupe-cyllene.com/developpeurs-sylius/).
 
 ## 🚀 Travailler avec nous
 
-- **Un projet Sylius ou Symfony ?** [Contactez-nous](https://www.groupe-cyllene.com/contactez-nous/)
+- **Un projet Sylius ou Symfony ?** [Contactez-nous](https://www.groupe-cyllene.com/developpeurs-sylius/)
 - **Envie de rejoindre l'équipe ?** [Voir nos offres](https://www.groupe-cyllene.com/les-opportunites-cyllene/)
 
 <p align="center">
