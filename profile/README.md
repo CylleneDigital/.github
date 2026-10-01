@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Opérateur de transformation digitale</strong><br>
+  <strong>Digital transformation operator</strong><br>
   Open source Sylius plugins and Symfony bundles, built and maintained by the Cyllene e-commerce team.
 </p>
 
