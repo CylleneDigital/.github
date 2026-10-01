@@ -1,3 +1,5 @@
+<p align="right"><a href="https://github.com/CylleneDigital/.github/blob/main/profile/README.fr.md">🇫🇷 Version française</a></p>
+
 <p align="center">
   <a href="https://www.groupe-cyllene.com">
     <picture>
