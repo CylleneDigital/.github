@@ -42,7 +42,9 @@ Cette organisation regroupe les plugins et bundles que nous extrayons de nos pro
 
 ### Bundles Symfony
 
-_Bientôt disponibles._
+| Package | Description | Packagist |
+|---|---|---|
+| [AiTranslationBundle](https://github.com/CylleneDigital/AiTranslationBundle) | Édition des traductions à chaud pour Symfony 7.4+ : surcharges en base appliquées par-dessus vos fichiers de traduction, suggestions IA (compatible OpenAI, Anthropic, DeepL) appliquées seulement après validation humaine, couverture, import/export XLIFF/CSV. | [![Version](https://img.shields.io/packagist/v/cyllene-digital/ai-translation-bundle?style=flat-square)](https://packagist.org/packages/cyllene-digital/ai-translation-bundle) [![Downloads](https://img.shields.io/packagist/dt/cyllene-digital/ai-translation-bundle?style=flat-square)](https://packagist.org/packages/cyllene-digital/ai-translation-bundle) |
 
 ## 🤝 Contribuer
 
